@@ -90,6 +90,8 @@ body {
   height: 370px;
   overflow-y: scroll;
   grid-column: 2;
+}
+.animais-lista li {
   cursor: pointer;
 }
 .animais-lista::-webkit-scrollbar {
